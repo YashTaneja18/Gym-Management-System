@@ -41,3 +41,8 @@ Open **Command Prompt (Windows)** or **Terminal (Mac/Linux)** and run:
 ```sh
 git clone https://github.com/your-username/gym-management-system.git
 cd gym-management-system
+## 📌 Installing Dependencies
+
+To install all the required dependencies for this project, run the following command:
+
+pip install -r requirements.txt
